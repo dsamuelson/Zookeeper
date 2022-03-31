@@ -108,6 +108,16 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Ricky",
+      "species": "Racoon",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
